@@ -18,9 +18,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
