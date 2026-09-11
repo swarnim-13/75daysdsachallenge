@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
