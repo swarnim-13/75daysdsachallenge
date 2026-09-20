@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -43,9 +44,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
