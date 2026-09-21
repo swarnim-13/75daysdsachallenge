@@ -25,3 +25,5 @@ public:
 
     }
 };
+// map h toh time complexity 0(1) hoga or o(n) kyuki ek hi loop
+//space o(1) 
