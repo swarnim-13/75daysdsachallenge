@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0344-reverse-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
