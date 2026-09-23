@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
