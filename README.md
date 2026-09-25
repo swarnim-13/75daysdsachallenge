@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
