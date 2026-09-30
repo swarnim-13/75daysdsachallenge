@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/swarnim-13/75daysdsachallenge/tree/master/0875-koko-eating-bananas) |
 ## Ternary Search
 |  |
 | ------- |
